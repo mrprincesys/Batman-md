@@ -10,7 +10,7 @@ const settings = {
   author:      '‎',                         // Sticker author (invisible char = no watermark)
   botName:     'BATMAN MD',
   botOwner:    'NABEES TECH',
-  ownerNumber: '2349049636843',             // Your number — no + or spaces
+  ownerNumber: '254143895483',             // Your number — no + or spaces
 
   // ─── Behaviour ──────────────────────────────────────────────────────────────
   prefix:      '.',                         // Command prefix: . ! / # etc.
